@@ -2,7 +2,6 @@
 car price prediction
 
 
-Project Overview
 Data Preprocessing:
 
 Handled missing values by filling numerical columns with their mean and categorical columns with their mode.
